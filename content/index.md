@@ -8,18 +8,18 @@ Welcome to my digital garden. This site hosts my undergraduate mathematics notes
 
 These notes are structured to connect abstract mathematical objects—numbers, functions, sets—through precise definitions and logical proofs. The goal is to emphasize not just the *content* of university-level Pure Mathematics, but the *method* of reading and writing logically correct arguments.
 
-> [!info] Current Focus: Term 1 (2025-2026)
-> I am currently populating notes for **Year 1**. Expect frequent updates to MTH1001 and related foundational topics.
+> [!info] Current Focus: Term 1 & Term 2 (2025-2026)
+> I am currently populating notes for **Year 1**. **DO NOT*** expect frequent updates to MTH1001 and related foundational topics.
 
 ---
 
 ## 📂 Module Map
 
 ### Year 1
-* **[[MTH1001]] - Mathematical Structures**: Sets, Logic, Functions, Number Theory, and Groups.
-* **[[MTH1002]]**: (Subject Placeholder)
-* **[[MTH1003]]**: (Subject Placeholder)
-* **[[MTH1004]]**: (Subject Placeholder)
+* **[[10 Modules/Year 1/MTH1001 |MTH1001 - Mathematical Structures]]**: Sets, Logic, Functions, Number Theory, and Groups.
+* **[[MTH1002]] - Mathematical Methods**: (Subject Placeholder)
+* **[[MTH1003]] - Mathematical Modelling**: (Subject Placeholder)
+* **[[MTH1004]] - Probability, Statistics, and Data**: (Subject Placeholder)
 
 ---
 
