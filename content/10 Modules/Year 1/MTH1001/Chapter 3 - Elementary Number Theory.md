@@ -16,3 +16,5 @@
 - [ ] Q1 (Direct application of Definition 1.2)
 - [ ] Q4 (Requires the Subspace Test)
 - [ ] Q5 (Harder proof - check office hours)
+
+![[math1.gif]]
