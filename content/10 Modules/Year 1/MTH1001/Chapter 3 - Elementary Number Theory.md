@@ -7,7 +7,7 @@
 
 ---
 ## 2. Textbook Notes
-*(Start writing your narrative here. Don't separate by "Lecture 1" or "Lecture 2". Just flow na
+*(Start writing your narrative here. Don't separate by "Lecture 1" or "Lecture 
 
 
 ---
