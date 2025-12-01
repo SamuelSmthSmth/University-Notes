@@ -32,7 +32,7 @@ One way to create new functions is to *compose* two or more existing functions.
 
 ![[Definition - Left and Right Inverse]]
 
-### Permutations
+## Permutations
 
 ![[Definition - Permutation]]
 
