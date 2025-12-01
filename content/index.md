@@ -15,11 +15,7 @@ These notes are structured to connect abstract mathematical objects—numbers, f
 
 ## 📂 Module Map
 
-### Year 1
-* **[[10 Modules/Year 1/MTH1001 |MTH1001 - Mathematical Structures]]**: Sets, Logic, Functions, Number Theory, and Groups.
-* **[[MTH1002]] - Mathematical Methods**: (Subject Placeholder)
-* **[[MTH1003]] - Mathematical Modelling**: (Subject Placeholder)
-* **[[MTH1004]] - Probability, Statistics, and Data**: (Subject Placeholder)
+### [[10 Modules/Year 1]]
 
 ---
 
