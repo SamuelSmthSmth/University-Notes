@@ -1,0 +1,1 @@
+The cardinality of a [[Definition - Set |set]] is the number of elements contained in a finite set (or infinite). It is defined using $|A|$ where $A$ is the set in question.

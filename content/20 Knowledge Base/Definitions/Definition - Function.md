@@ -1,0 +1,2 @@
+A function $f$ from a set $A$ to a set $B$ is a rule which **associates** to every element $a \in A$ one and only one element $f(a)$ is $B$.
+We write $f : A \to B$ to indicate that $f$ is a function from $A$ to $B$. The set $A$ is called the *domain* of the function, and $B$ is called it's *codomain*.

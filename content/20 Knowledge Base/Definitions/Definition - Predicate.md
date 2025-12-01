@@ -1,0 +1,1 @@
+A predicate is a statement in involving one or more free variables. The statement becomes a proposition once we specify values for the free variables.

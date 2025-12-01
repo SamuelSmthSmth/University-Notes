@@ -1,0 +1,1 @@
+Let $A$ and $B$ be [[Definition - Set |sets]]. Then $A$ is a subset of $B$ if all of the elements in $A$ are also elements in $B$. This is written as $A \subseteq B$.

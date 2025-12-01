@@ -1,0 +1,1 @@
+Given all of the [[Definition - Set |sets]] being considered are all subsets of a fixed set $S$, we call $S$ the **universal set** and define the compliment of set $A$ as: $$A^c = A' = \{ x \in S : x \notin A \} = S \ \backslash \ A$$
