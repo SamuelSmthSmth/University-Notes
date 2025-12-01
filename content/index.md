@@ -27,9 +27,9 @@ These notes are structured to connect abstract mathematical objects—numbers, f
 
 Apart from specific modules, notes are organized atomically by type to allow for cross-linking between different areas of mathematics.
 
-* **[[Definitions]]**: Precise terminologies used across all modules.
-* **[[Theorems]]**: Key mathematical propositions and their statements.
-* **[[Proofs]]**: Rigorous demonstrations of truth for the theorems above.
+* **[[20 Knowledge Base/Definitions]]**: Precise terminologies used across all modules.
+* **[[20 Knowledge Base/Theorems]]**: Key mathematical propositions and their statements.
+* **[[20 Knowledge Base/Proofs]]**: Rigorous demonstrations of truth for the theorems above.
 
 ---
 
