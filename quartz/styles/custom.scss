@@ -22,6 +22,14 @@
       opacity: 0.06; // subtle in light mode
     }
 
+    // Heavier grain in light mode for more visible texture
+    @media (prefers-color-scheme: light) {
+      body::before {
+        opacity: 0.28;
+        background-size: 100px 100px;
+      }
+    }
+
     // Lower grain visibility in dark mode to preserve OLED look
     @media (prefers-color-scheme: dark) {
       body::before {
@@ -655,4 +663,76 @@ iframe.pdf {
   background: var(--secondary);
   transition: width 0.2s ease;
   z-index: 9999;
+}
+
+/* ============== */
+/* Scrollbar style */
+/* ============== */
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--gray) 70%, transparent) transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  * {
+    scrollbar-color: color-mix(in srgb, var(--darkgray) 60%, transparent) transparent;
+  }
+}
+
+/* WebKit (Chromium/Safari) */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: color-mix(in srgb, var(--gray) 65%, transparent);
+  border-radius: 8px;
+  border: 2px solid transparent; /* creates a gap around thumb */
+  background-clip: content-box;
+  transition: background-color 0.2s ease;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: color-mix(in srgb, var(--secondary) 60%, var(--gray));
+}
+@media (prefers-color-scheme: dark) {
+  ::-webkit-scrollbar-thumb {
+    background-color: color-mix(in srgb, var(--darkgray) 45%, transparent);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: color-mix(in srgb, var(--secondary) 55%, var(--darkgray));
+  }
+}
+
+/* ===================== */
+/* Image shadow + "glow" */
+/* ===================== */
+img {
+  /* subtle base shadow */
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--dark) 8%, transparent);
+  transition: box-shadow 120ms ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  img {
+    /* darker but still subtle; background remains OLED black */
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* purple glow on hover/focus-visible */
+img:hover,
+img:focus-visible {
+  box-shadow:
+    0 0 0 2px color-mix(in srgb, var(--secondary) 70%, transparent),
+    0 14px 36px color-mix(in srgb, var(--secondary) 25%, transparent);
+}
+
+/* Keyboard accessibility: ensure images can show focus glow when focusable */
+img[tabindex],
+a > img {
+  outline: none;
 }
