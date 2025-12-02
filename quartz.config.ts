@@ -23,31 +23,33 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // Things 3 uses system fonts. "Inter" is the closest free Google match.
+        // The actual system font stack is enforced in custom.scss
+        header: "Inter",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#ffffff",        // Pure white background
+          lightgray: "#e5e5e5",    // Dividers/Borders
+          gray: "#818893",         // Muted text / Icons (Matches theme.css)
+          darkgray: "#2d2e34",     // Body text (Matches theme.css)
+          dark: "#000000",         // Headings (Text Extreme)
+          secondary: "#7c4dff",    // Purple accent
+          tertiary: "#a274ff",     // Hover/Interactive Accent (lighter purple)
+          highlight: "rgba(124, 77, 255, 0.10)", // Selection Highlight (purple-tinted)
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#000000",        // Pure Black (OLED)
+          lightgray: "#3b3b3b",    // Dividers
+          gray: "#8a919b",         // Muted text
+          darkgray: "#e0e0e0",     // Main text
+          dark: "#ffffff",         // Headings
+          secondary: "#b388ff",    // Purple accent for dark mode
+          tertiary: "#d1b3ff",     // Hover state (lighter purple)
+          highlight: "rgba(179, 136, 255, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },

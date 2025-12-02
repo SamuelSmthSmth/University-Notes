@@ -4,9 +4,6 @@ on:
     branches:
       - v4 # Change this to your main content branch (e.g., main) if needed
 
-env:
-  THEME_NAME: encore
-
 permissions:
   contents: read
   pages: write
@@ -39,9 +36,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-
-      - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 
       - name: Build Quartz
         run: npx quartz build
