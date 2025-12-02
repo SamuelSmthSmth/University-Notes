@@ -40,6 +40,12 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      - name: Add .nojekyll file
+        run: |
+          if [ ! -f public/.nojekyll ]; then
+            touch public/.nojekyll
+          fi
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
