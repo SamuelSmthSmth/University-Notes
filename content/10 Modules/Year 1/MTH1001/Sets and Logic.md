@@ -1,5 +1,5 @@
 **Module:** [[MTH1001 - Mathematical Structures]]
-**Sources:** - [[MTH1001-2025-26-Notes-Term-1.pdf]]
+**Sources:** - ![[MTH1001-2025-26-Notes-Term-1.pdf#height=700]]
 
 ---
 ## 1. Chapter Summary
