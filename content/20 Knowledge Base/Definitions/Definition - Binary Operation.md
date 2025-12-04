@@ -1,0 +1,1 @@
+A ***binary operation*** $*$ (or just an operation) on a set $X$ is a rule assigning to each $a \in X$ and $b \in X$ an element $a * b \in X$.

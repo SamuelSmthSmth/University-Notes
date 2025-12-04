@@ -1,1 +1,1 @@
-The cardinality of a [[Definition - Set |set]] is the number of elements contained in a finite set (or infinite). It is defined using $|A|$ where $A$ is the set in question.
+The *cardinality* (or *order*) of a group is the number of elements it has. If this number is finite, it is a finite group and otherwise an infinite group. We write $|G|$ for the cardinality of $G$.
