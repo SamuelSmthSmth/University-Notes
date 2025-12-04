@@ -1,0 +1,1 @@
+When each family of curves intersect perpendicular to each other, they are considered ***orthogonal***.

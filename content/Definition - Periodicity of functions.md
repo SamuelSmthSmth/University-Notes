@@ -1,0 +1,1 @@
+A function $f : \mathbb{R} \to \mathbb{R}$ is periodic if there exists some $T > 0$ such that $f(x + T) = f(x)$ for all $x$.
