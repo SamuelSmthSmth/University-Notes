@@ -1,0 +1,1 @@
+Let $G$ and $H$ be groups with operations denoted by $*$ and $\boldsymbol{\cdot}$ respectively. An **isomorphism** from $G$ to $H$ is a [[Definition - Surjectivity, Injectivity, and Bijectivity |bijection]] $\phi : G \to H$ which is "structure-preserving" in the sense that $$\phi (a * b) = \phi(a) \ \boldsymbol{\cdot} \ \phi (b) $$ for all $a, b \in G$.

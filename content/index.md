@@ -13,6 +13,24 @@ These notes are structured to connect abstract mathematical objects—numbers, f
 
 ---
 
+## To-Do List
+
+- [ ] **MTH1001:**
+	- [ ] Work on Elementary Number Theory chapter
+	- [ ] Finish off Groups chapter
+	- [ ] Complete problem sheets
+	- [ ] Update lecture note and problem sheet configuration
+- [ ] **MTH1002:**
+	- [ ] Work on Vectors and Differentiation chapters
+	- [ ] Review latest problem sheets for Elementary Number Theory and Groups
+	- [ ] Update lecture note and problem sheet configuration
+- [ ] **MTH1003:**
+	- [ ] Start with revision 
+- [ ] **MTH1004:**
+	- [ ] {nothing} :)
+
+---
+
 ## 📂 Module Map
 
 ### Year 1

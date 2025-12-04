@@ -1,0 +1,1 @@
+Let $G$ be a finite group, and let $H$ be a subgroup of $G$. Then $|H|$ is a factor of $|G|$.

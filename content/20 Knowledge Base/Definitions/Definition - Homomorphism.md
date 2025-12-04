@@ -1,0 +1,1 @@
+Let $G$ and $H$ be groups with operations denoted by $*$ and $\boldsymbol{\cdot}$ respectively. A **homomorphism** from $G$ to $H$ is a is a map $\phi : G \to H$ which is satisfies $$\phi (a * b) = \phi(a) \ \boldsymbol{\cdot} \ \phi (b) $$ for all $a, b \in G$.
