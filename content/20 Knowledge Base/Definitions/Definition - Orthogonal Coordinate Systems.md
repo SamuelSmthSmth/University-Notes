@@ -1,1 +1,1 @@
-When each family of curves intersect perpendicular to each other, they are considered ***orthogonal***.
+When each family of curves / vectors intersect perpendicular to each other, they are considered ***orthogonal***. This is denoted as $$\vec{u} \perp \vec{v}.$$

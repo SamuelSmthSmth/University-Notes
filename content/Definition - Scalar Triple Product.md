@@ -1,0 +1,1 @@
+Let $\vec{u}, \vec{u}, \vec{w} \in \mathbb{R}^3$. Then the *scalar triple product* of these three vectors (in the given order) is given by $$\vec{u} \cdot (\vec{v} \times \vec{w}).$$

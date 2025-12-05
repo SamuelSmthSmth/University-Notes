@@ -1,0 +1,1 @@
+Let $\vec{u}$ and $\vec{v}$ be non-zero vectors. Then $\vec{u} \perp \vec{v}$ if and only if $\vec{u} \cdot \vec{v} = 0.$
