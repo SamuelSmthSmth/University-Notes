@@ -50,6 +50,8 @@ Let $L$ be a line in 3-D space passing through a point $P_0 = (x_0, y_0, z_2)$ p
 Then $P$ lies on $L$ if and only if $\vec{P_0 P}$ is a scalar multiple of $\vec{v}$. This means that there is a scalar $t$ such that $\vec{r} - \vec{r}_0 = t \vec{v}$. Thus $$\vec{r} = \vec{r}_0 + t \vec{v}, \ \ \ t \in \mathbb{R}.$$
 This is often referred to as the *vector equation of the line* $L$, where $t$ is a parameter for the line (like a slider deciding how far along the line you are). We also have the *symmetric representation* of $L$: $$\frac{x - x_0}{v_1} = \frac{y - y_0}{v_2} = \frac{z - \_0}{v_3}.$$
 
+
+
 ---
 ## 3. Problem Sheet Actions
 **Sheet:** [[MTH1001 - Sheet 1]]
