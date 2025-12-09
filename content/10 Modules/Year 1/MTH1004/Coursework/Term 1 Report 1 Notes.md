@@ -37,3 +37,8 @@ Because of this skew, the median is a more robust measure of central tendency th
 - **1st Quartile (25%):** 673.
 - **3rd Quartile (75%):** 1,141 
 - **IQR:** 1,141 - 673.5 = 467.5
+
+### Interpret values in "gbooks_freq"
+
+The values in the gbooks_freq column represent the standardized frequency (z-score) of each adjective based on the Google Books database. A positive value indicates that the adjective appears **more frequently** than the average word in the list of the 50,000 most common words. Therefore, positive values denote words that are highly familiar and commonly used in the English language.
+
