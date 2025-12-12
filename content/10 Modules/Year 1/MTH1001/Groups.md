@@ -12,6 +12,8 @@
 
 An example of a binary operation is addition $+$ on $\mathbb{N}$. For all $a,b \in \mathbb{N}$, $a + b \in \mathbb{N}$. In fact, addition is a binary operation on $\mathbb{R}$. Essentially, a binary operation takes two elements of the same set, performs some operation, and produces another element of the **same** set.
 
+**Definition - Associativity:** A binary operation $*$ on a set $S$ is associative if $(a * b) * c = a * (b * c)$ for all $a, b, c \in S$.
+
 ![[Definition - Commutative]]
 
 Note that addition and multiplication are commutative, but subtraction and division are not. That is to say $a + b = b + a$ and $a \times b = b \times a$, but $a - b$ is not necessarily equal to $b - a$ and $\frac{a}{b}$ is not necessarily equal to $\frac{b}{a}$. For instance, $5 - 3 \neq 3 - 5$. Commutativity is a useful property because it means you can ignore the order of the operation and 'drop the brackets' when using an operation on more than $2$ elements.
