@@ -1,1 +1,0 @@
-Let $A$ and $B$ be [[Definition - Set |sets]]. Then $A$ and $B$ are equal ($A = B$) if and only if $A \subseteq B$ and $B \subseteq A$: $$A  = B \iff (A \subseteq B) \ \land \ (B \subseteq A)$$

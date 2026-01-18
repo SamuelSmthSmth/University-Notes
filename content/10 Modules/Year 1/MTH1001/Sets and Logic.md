@@ -30,7 +30,7 @@ Sets can be constructed from other defined sets. They are written as $\{ \text{s
 
 ### Linking sets
 
-![[20 Knowledge Base/Definitions/Definition - Subset]]
+![[Definition - Subset]]
 
 For example, the set $\{ 1, 2, 3, 4, 5 \}$ is a subset of the natural numbers: $$\{ 1, 2, 3, 4, 5 \} \subseteq \mathbb{N}$$
 ![[Definition - Equality of sets]]
