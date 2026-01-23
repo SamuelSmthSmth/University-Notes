@@ -1,1 +1,0 @@
-Suppose $f$ is defined on a subset of $\mathbb{R}$ which is symmetric about $0$ ($x \in D(f) \implies -x \in D(f)$). If $f(x) = f(-x)$ for all $x \in D(f)$, $f$ is an ***even*** function. If $f(x) = -f(-x)$ for all $x \in D(f)$, $f$ is an **Odd*** function. This can be further defined as: $$O(f)(x) = \frac{f(x) - f(-x)}{2} \ \text{ and } \ E(f)(x) = \frac{f(x) + f(-x)}{2}$$

@@ -1,2 +1,0 @@
-We say $f(x) \to L$ as $x \to a$ if for $\epsilon > 0$, there exists $\delta > 0$, such that for all $x$ satisfying $$0 < |x - a| < \delta$$we have $$|f(x) - L| < \epsilon$$
-We write $\lim_{x \to a} f(x) = L$.

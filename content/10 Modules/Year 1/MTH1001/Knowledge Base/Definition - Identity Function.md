@@ -1,1 +1,0 @@
-For any set $A$, the identity [[Definition - Function |function]] of $A$ is the function $id_A(a) = a$ for all $a \in A$ .

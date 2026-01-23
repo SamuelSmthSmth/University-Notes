@@ -1,1 +1,0 @@
-Let $f : A \to B$ and $g : C \to D$ be [[Definition - Function |functions]]. Then $f$ and $g$ are equal (written $f = g$) if $A = C$ and $B = D$, and $f(x) = g(x)$ for all $x \in A$.

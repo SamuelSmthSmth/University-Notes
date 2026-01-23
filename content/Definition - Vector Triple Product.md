@@ -1,1 +1,0 @@
-Let $\vec{u}, \vec{v}, \vec{w} \in \mathbb{R}^3$ . Then the *vector triple product* of these three vectors is given by $$\vec{u} \times (\vec{v} \times \vec{w}).$$

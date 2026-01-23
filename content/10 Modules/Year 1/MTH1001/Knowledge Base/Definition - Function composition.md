@@ -1,1 +1,0 @@
-Let $f : A \to B$ and $g : C \to D$. Then the *composition* of $f$ and $g$: $$f \circ g = f(g(a)) \forall a \in A$$ creating the [[Definition - Function |function]] $f \circ g : A \to C$

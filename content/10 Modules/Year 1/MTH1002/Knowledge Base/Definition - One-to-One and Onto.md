@@ -1,1 +1,0 @@
-For a given function $f : D \to C$ is ****one-to-one*** if $f(x) = f(y) \implies x = y$ for $x,y \in D$. The function is ***onto*** if for all $y \in C$, there exists some $x \in D$ such that $y = f(x)$.

@@ -1,1 +1,0 @@
-If $a \in G$, then the set $\{ a^n : n \in \mathbb{Z} \}$ is a subgroup of $G$, which we denote $\langle a \rangle$. This is the *cyclic subgroup* of $G$ *generated* by $a$.

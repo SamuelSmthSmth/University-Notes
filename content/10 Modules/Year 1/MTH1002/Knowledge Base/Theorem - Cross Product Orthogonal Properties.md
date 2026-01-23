@@ -1,1 +1,0 @@
-Let $\vec{u}$ and $\vec{w}$ be vectors in $\mathbb{R}^3$. Then $\vec{u} \times \vec{w}$ is orthogonal to both $\vec{u}$ and $\vec{w}$.

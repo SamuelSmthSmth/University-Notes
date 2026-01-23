@@ -1,1 +1,0 @@
-A [[Definition - Binary Operation|binary operation]] $*$ on a set $X$ is *commutative* if $a * b = b * a$ for all $a, b \in X$.

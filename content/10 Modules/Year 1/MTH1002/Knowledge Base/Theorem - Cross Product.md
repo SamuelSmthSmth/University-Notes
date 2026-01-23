@@ -1,1 +1,0 @@
-Let $\vec{u}$ and $\vec{w}$ be vectors in $\mathbb{R}^3$, and let $\theta$ be the angle between $\vec{u}$ and $\vec{w}$. Then $$|\vec{u} \times \vec{w}|^2 = |\vec{u}|^2 |\vec{w}|^2 - (\vec{u} \cdot \vec{w})^2 = |\vec{u}|^2 |\vec{w}|^2 \sin ^2 \theta$$

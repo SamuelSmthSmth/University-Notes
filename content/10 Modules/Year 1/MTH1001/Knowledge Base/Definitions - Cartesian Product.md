@@ -1,1 +1,0 @@
-For [[20 Knowledge Base/Definitions/Definition - Set|sets]] $A$ and $B$, their **Cartesian Product**, $A \times B$, consists of all of the ordered pairs $(a,b)$ where $a \in A$ and $b \in B$: $$A \times B = \{ (a,b) : a \in A \land b \in B \}$$

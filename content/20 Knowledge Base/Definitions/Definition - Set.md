@@ -1,1 +1,0 @@
-A set is a collection of objects (known as elements). Sets are written using the brackets { }.
