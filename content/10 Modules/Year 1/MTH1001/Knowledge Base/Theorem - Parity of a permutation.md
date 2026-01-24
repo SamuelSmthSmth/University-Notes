@@ -1,0 +1,1 @@
+A permutation cannot be expressed as both a product of an even number of transpositions and of an odd number of transpositions.

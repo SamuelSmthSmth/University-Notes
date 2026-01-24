@@ -1,0 +1,2 @@
+The length of a vector $\vec{v}$ is often called the *norm, modulus, length or magnitude* of $\vec{v}$. It is denoted $|\vec{v}|$. A vector of norm 1 is called a unit vector.
+If $\vec{v} = (v_1, v_2, v_3)$ then $$|\vec{v}| = \sqrt{v_1 ^2 + v_2 ^2 + v_3 ^2}.$$

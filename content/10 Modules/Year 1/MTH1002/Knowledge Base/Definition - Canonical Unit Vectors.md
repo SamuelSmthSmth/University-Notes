@@ -1,0 +1,2 @@
+The *standard unit vectors,* also known as the *canonical unit vectors,* are $$\hat{i} = (1,0,0), \ \hat{j} = (0,1,0), \ \hat{k} = (0,0,1).$$
+They each have [[Definition - Length of a vector |norm]] 1 and point in the directions of the $x, y$ and $z$-axes respectively.

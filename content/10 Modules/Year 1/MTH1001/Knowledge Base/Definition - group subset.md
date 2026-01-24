@@ -1,0 +1,2 @@
+For $g \in G$, we write $$gH = \{ gh : h \in H \}$$ So $gH$ is a *subset* (not subgroup) of $G$, and it contains precisely $|H|$ elements, since if $gh = gh'$ then (multiplying on the left by $g^{-1}$) we get $h = h'$.
+	We call $gH$ the **left coset** of $H$ determined by $g$.

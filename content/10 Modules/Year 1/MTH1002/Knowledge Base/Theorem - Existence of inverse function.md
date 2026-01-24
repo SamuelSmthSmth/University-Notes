@@ -1,0 +1,1 @@
+The function $f$ has an inverse **if and only if** $f$ is ***[[Definition - One-to-One and Onto |one-to-one]]*** and ***[[Definition - One-to-One and Onto |onto]]***.

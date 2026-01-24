@@ -1,0 +1,1 @@
+An *inverse* ([[Definition - Function |function]]) to a function $f : A \to B$ is a function $g : B \to A$: $$g \circ f = id_A \text{ and } f \circ g = id_B$$

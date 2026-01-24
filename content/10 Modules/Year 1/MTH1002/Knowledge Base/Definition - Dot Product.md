@@ -1,0 +1,1 @@
+Let $\vec{u}$ and $\vec{v}$ be two vectors in $\mathbb{R}^2$ or $\mathbb{R}^3$ with angle $\theta$ between them. The *dot product* (also known as the *scalar product*) of $\vec{u}$ and $\vec{v}$ is $$\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}| \cos \theta$$

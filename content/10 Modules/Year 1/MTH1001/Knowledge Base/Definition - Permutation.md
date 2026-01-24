@@ -1,0 +1,1 @@
+Let $X$ be any [[20 Knowledge Base/Definitions/Definition - Set|set]]. Then a *permutation* on $X$ is a bijection $\pi : X \to X$.

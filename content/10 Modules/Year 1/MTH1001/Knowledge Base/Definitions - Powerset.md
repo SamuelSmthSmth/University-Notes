@@ -1,0 +1,1 @@
+A [[20 Knowledge Base/Definitions/Definition - Set|set]] of all the [[Definition - Subset|subset]] of a given set $S$ is called the **powerset**, denoted using $\mathtt{P}(S)$ . Note, $|S| = n \iff \mathtt{P}(S) = 2^n$

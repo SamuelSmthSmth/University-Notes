@@ -1,0 +1,2 @@
+We say $f : D \to R$ is ***monotonic increasing*** if $f(x) \leq f(y)$ for all $x < y$ where $x,y \in D(f)$. $f$ is **strictly monotonic increasing*** if $f(x) < f(y)$ for all $x < y$.
+Likewise, $f$ is **monotonic decreasing*** if $f(x) \geq f(y)$ for all $x < y$ and **strictly monotonic increasing*** if $f(x) \geq f(y)$ for all $x < y$.

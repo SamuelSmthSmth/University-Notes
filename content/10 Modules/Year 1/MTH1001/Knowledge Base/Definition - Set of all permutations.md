@@ -1,0 +1,1 @@
+For any natural number $n$, we write $S_n$ for the [[20 Knowledge Base/Definitions/Definition - Set|set]] of all permutations on the set $\{ 1, 2, \dots , n \}$. (It is sometimes write $\mathfrak{S}_n$).
