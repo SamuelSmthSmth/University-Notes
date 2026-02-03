@@ -109,7 +109,6 @@ Consider $\sigma = (1 \ 2 \ 3)$. Then $\sigma ^2 = (1 \ 2 \ 3)(1 \ 2 \ 3) = (1 \
 The ***sign*** of a permutation, written as $\text{sgn}(\sigma)$, works in the opposite way to what you might expect where an even length means it's an odd permutation, and an odd length means it's an even permutation. However, $\text{sgn}(\sigma) = 1$ if it is even, and $-1$ if odd.
 
 Note: $\text{sgn}(\sigma \pi) = \text{sgn}(\sigma) \text{sgn}(\pi)$
-Note: $\text{sgn}(\sigma \pi) = \text{sgn}(\sigma) \text{sgn}(\pi)$
 
 ---
 ## 3. Problem Sheets
