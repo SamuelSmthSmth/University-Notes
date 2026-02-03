@@ -1,5 +1,3 @@
-# Definitions
-
 ### Axioms for a group
 A set $G$ with the [[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Binary Operation|binary operation]] $*$ is a group if
 1. $a * (b * c) = (a * b) * c$ for all $a,b,c \in G$;
