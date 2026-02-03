@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
+import pdfScript from "./scripts/minimal-pdf.inline"
 
 interface Options {
   links: Record<string, string>
@@ -24,6 +25,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <script dangerouslySetInnerHTML={{ __html: pdfScript }} />
       </footer>
     )
   }

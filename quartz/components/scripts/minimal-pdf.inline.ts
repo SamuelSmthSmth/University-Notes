@@ -6,3 +6,5 @@ document.addEventListener("nav", () => {
     iframe.src += `${separator}toolbar=0&navpanes=0&scrollbar=0&view=FitH`
   })
 })
+
+export default ""
