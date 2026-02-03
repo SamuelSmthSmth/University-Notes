@@ -1,7 +1,11 @@
-# Mathematical Structures
-
+---
+title: MTH1001 - Mathematical Structures
+order: 1
+---
 **Status:** In Progress
+
 **Lecturer:** Nigel Byott, Peter Ashwin, Jan Seiber
+
 **Compendiums:** [[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions|Definitions]] | [[10 University/Year 1/MTH1001 - Mathematical Structures/Theorems|Theorems]]
 
 ## Lecture Log

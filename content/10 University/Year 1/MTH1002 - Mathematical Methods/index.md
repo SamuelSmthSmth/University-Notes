@@ -1,7 +1,11 @@
-# Mathematical Methods
-
+---
+title: MTH1002 - Mathematical Methods
+order: 0
+---
 **Status:** In Progress
+
 **Lecturer:** Layal Hakim, Mark Holland, Mike O'Sullivan, Bob Beare
+
 **Compendiums:** [[10 University/Year 1/MTH1002 - Mathematical Methods/Definitions|Definitions]] | [[10 University/Year 1/MTH1002 - Mathematical Methods/Theorems|Theorems]]
 
 ## Lecture Log

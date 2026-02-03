@@ -1,8 +1,11 @@
 ---
 title: Hub
+order: 1
 ---
-
 # ⬡ University of Exeter Garden
+
+> [!warning] Work in Progress
+> This digital garden is currently under active construction. Notes are being migrated and restructured daily. If a link is broken, check back tomorrow!
 
 Welcome! This is a digital garden for my MMath Mathematics degree journey at the **University of Exeter**. It hosts my lecture notes, problem sheets, and definitions for easy reference, alongside some other things because why not.
 
