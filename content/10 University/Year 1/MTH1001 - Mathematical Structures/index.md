@@ -5,9 +5,9 @@
 **Compendiums:** [[Definitions]] | [[Theorems]]
 
 ## Lecture Log
-- [[Lec 01 - Intro to Conics]]
-- [[Lec 02 - Polar Coordinates]]
-- [[Lec 03 - Complex Numbers]]
+- [[Sets and Logic]]
+- [[10 University/Year 1/MTH1001 - Mathematical Structures/Notes/Functions|Functions]]
+- [[Groups]]
 
 ## Problem Sheets
 | Sheet                | Status | Score |
