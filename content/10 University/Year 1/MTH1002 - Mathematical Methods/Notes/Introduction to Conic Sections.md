@@ -42,7 +42,7 @@ To read polar coordinates, we take the angle from the initial line (anticlockwis
 **NOTE**: whilst $x = k$ and $y = k$ both produce straight lines, $r = k$ produces a circle and $\theta = k$ produces a ray at the angle $\theta$.
 
 When plotting, if for some $\theta = \theta ^*$ you obtain $r = -r^*$, then instead plot on the ray $\theta = \theta ^* + \pi$ with $r^*$ such that $$(-r^*, \theta ^*) = (r^*, \theta ^* + \pi)$$
-![[Definition - Orthogonal Coordinate Systems]]
+![[10 University/Year 1/MTH1002 - Mathematical Methods/Definitions#Orthogonal Coordinate Systems]]
 
 ---
 ## 3. Problem Sheet Actions

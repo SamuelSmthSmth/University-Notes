@@ -7,13 +7,13 @@
 
 ---
 ## 2. Textbook Notes
-![[Definition - Set]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Set]]
 
 An example of a set is the set of Natural numbers = $\{ 1, 2, 3, \dots \}$ or the set of names such as $\{ \text{James}, \text{Jacob}, \text{Sarah} \}$. Any duplicates in a set are considered a singular element, and the order of the elements in the set don't matter.
 
 **NOTE:** An element of which is a set is not the same as the elements contained within the set.
 
-![[Definition - Cardinality]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Cardinality]]
 
 $\in$ means ''in, or "is an element of"
 
@@ -30,10 +30,10 @@ Sets can be constructed from other defined sets. They are written as $\{ \text{s
 
 ### Linking sets
 
-![[Definition - Subset]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Subset]]
 
 For example, the set $\{ 1, 2, 3, 4, 5 \}$ is a subset of the natural numbers: $$\{ 1, 2, 3, 4, 5 \} \subseteq \mathbb{N}$$
-![[Definition - Equality of sets]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Equality of sets]]
 
 $\subset$ means subset and $\subseteq$ means subset **and/or** equal
 
@@ -46,11 +46,11 @@ $z^n$ is the number of subsets in a finite set with cardinality $n$.
 | $A \lor B$           | The **union** of A and B                  | $\{ x : x \in A \lor x \in B \}$     |
 | $A \ \backslash \ B$ | The **difference** between sets A and B   | $\{ x : x \in A \land x \notin B \}$ |
 
-![[Definition - Compliment of a set]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Compliment of a set]]
 
-![[Definitions - Powerset]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Powerset]]
 
-![[Definitions - Cartesian Product]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Cartesian Product]]
 
 Consider $A \times B = \mathbb{R}$. Then, $\mathbb{R} \times \mathbb{R} = \mathbb{R}^2$ of which is equal to $\{ (x,y) : x \in \mathbb{R} \land y \in \mathbb{R} \}$. This is the set of Cartesian points in 2-dimensional space.
 
@@ -61,11 +61,11 @@ Consider $A \times B = \mathbb{R}$. Then, $\mathbb{R} \times \mathbb{R} = \mathb
 
 ## Propositional Calculus
 
-![[Definitions - Proposition]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Proposition]]
 
 For example, the statement $1 \neq 2$ is **True** and $12^9 < 11^9$ is **False**.
 
-![[Definition - Predicate]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Predicate]]
 
 | Quantifiers |              |
 | ----------- | ------------ |

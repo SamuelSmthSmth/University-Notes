@@ -8,33 +8,33 @@
 ---
 ## 2. Textbook Notes
 
-![[Definition - Function]]
+![[10 University/Year 1/MTH1002 - Mathematical Methods/Definitions#Function]]
 
 A function can generally be written and defined: $$f : A \to B, \text{ given by } f(x) \text{ for all } x = C$$
-![[Definition - Equality of functions]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Equality of functions]]
 
 ### Surjective and injective functions
 
-![[Definition - Surjectivity, Injectivity, and Bijectivity]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Surjectivity, Injectivity, and Bijectivity]]
 
 ### The "Algebra" of functions
 
 One way to create new functions is to *compose* two or more existing functions.
 
-![[Definition - Function composition]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Function composition]]
 
 **Proposition:** Suppose we have the functions $h : A \to B$, $g : B \to C$, $f : C \to D$. Then, $$(f \circ g) \circ h : A \to D \text{ is the same as } f \circ (g \circ h) : A \to D$$
-![[Definition - Identity Function]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Identity Function]]
 
-![[Definition - Inverse Function]]
+![[10 University/Year 1/MTH1002 - Mathematical Methods/Definitions#Inverse Function]]
 
-![[Theorem - Conditions for inverse of a function]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Theorems#Conditions for inverse of a function]]
 
-![[Definition - Left and Right Inverse]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Left and Right Inverse]]
 
 ## Permutations
 
-![[Definition - Permutation]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Permutation]]
 
 ### Properties of permutations
 
@@ -43,7 +43,7 @@ One way to create new functions is to *compose* two or more existing functions.
 - The identity function $id_X : X \to X$ is a permutation on $X$.
 - Each permutation $\sigma$ on $X$ has an inverse function $\sigma ^{-1} : X \to X$ so that $\sigma \circ \circ ^{-1} = id_X$ and $\sigma ^{-1} \circ \sigma = id_X$. The function $\sigma ^{-1}$ is itself a permutation.
 
-![[Definition - Set of all permutations]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Set of all permutations]]
 
 | Examples of permutations         |     |     |     |
 | -------------------------------- | --- | --- | --- |
@@ -104,7 +104,7 @@ Consider $\sigma = (1 \ 2 \ 3)$. Then $\sigma ^2 = (1 \ 2 \ 3)(1 \ 2 \ 3) = (1 \
 ### The sign of a permutation
 
 ***Transposition*** means permutations in the form $(i \ j)$. Every permutation can be written as a product of transpositions: $$(1_1 \ a_2 \ \dots \ a_{k-1 \ a_{k}}) = (a_1 \ a_2)(a_2 \ a_3) \dots (a_{k-1} \ a_{k}) = \Pi _{i = 1} ^{k} (a_{i-1} \ a_{i})$$
-![[Theorem - Parity of a permutation]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Theorems#Parity of a permutation]]
 
 The ***sign*** of a permutation, written as $\text{sgn}(\sigma)$, works in the opposite way to what you might expect where an even length means it's an odd permutation, and an odd length means it's an even permutation. However, $\text{sgn}(\sigma) = 1$ if it is even, and $-1$ if odd.
 

@@ -8,19 +8,19 @@
 ---
 ## 2. Textbook Notes
 
-![[Definition - Binary Operation]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Binary Operation]]
 
 An example of a binary operation is addition $+$ on $\mathbb{N}$. For all $a,b \in \mathbb{N}$, $a + b \in \mathbb{N}$. In fact, addition is a binary operation on $\mathbb{R}$. Essentially, a binary operation takes two elements of the same set, performs some operation, and produces another element of the **same** set.
 
 **Definition - Associativity:** A binary operation $*$ on a set $S$ is associative if $(a * b) * c = a * (b * c)$ for all $a, b, c \in S$.
 
-![[Definition - Commutative]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Commutative]]
 
 Note that addition and multiplication are commutative, but subtraction and division are not. That is to say $a + b = b + a$ and $a \times b = b \times a$, but $a - b$ is not necessarily equal to $b - a$ and $\frac{a}{b}$ is not necessarily equal to $\frac{b}{a}$. For instance, $5 - 3 \neq 3 - 5$. Commutativity is a useful property because it means you can ignore the order of the operation and 'drop the brackets' when using an operation on more than $2$ elements.
 
-For [[Definition - Function composition |function compositions]], $(h \circ (g \circ f))(a) = h((g \circ f)(a)) = h(g(f(a)))$ and $((h \circ g) \circ f)(a) = (h \circ g)(f(a)) = h(g(f(a)))$. Thus, $h \circ (g \circ f)$ and $(h \circ g) \circ f$ define the same function.
+For [[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Function composition|function compositions]], $(h \circ (g \circ f))(a) = h((g \circ f)(a)) = h(g(f(a)))$ and $((h \circ g) \circ f)(a) = (h \circ g)(f(a)) = h(g(f(a)))$. Thus, $h \circ (g \circ f)$ and $(h \circ g) \circ f$ define the same function.
 
-![[Definition - Axioms for a group]]
+![[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions#Axioms for a group]]
 
 The operation in a group must be *associative*, must possess an *identity* element, and each element has an *inverse*. However, we don't assume that a group operation is *commutative*.
 

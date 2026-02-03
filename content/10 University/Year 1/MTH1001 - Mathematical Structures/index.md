@@ -2,7 +2,7 @@
 
 **Status:** In Progress
 **Lecturer:** Nigel Byott, Peter Ashwin, Jan Seiber
-**Compendiums:** [[Definitions]] | [[Theorems]]
+**Compendiums:** [[10 University/Year 1/MTH1001 - Mathematical Structures/Definitions|Definitions]] | [[10 University/Year 1/MTH1001 - Mathematical Structures/Theorems|Theorems]]
 
 ## Lecture Log
 - [[Sets and Logic]]
@@ -10,10 +10,13 @@
 - [[Groups]]
 
 ## Problem Sheets
-| Sheet                | Status | Score |
-| :------------------- | :----- | :---- |
-| [[Sheet 1 - Conics]] | ✅ Done | 10/10 |
-| [[Sheet 2 - ODEs]]   | 🟧 WIP | -     |
+| Sheet                               | Status | Score |
+| :---------------------------------- | :----- | :---- |
+| [[Structures-Sheet-1.pdf\|Sheet 1]] | ✅ Done | 10/10 |
+| [[Structures-Sheet-2.pdf\|Sheet 2]] | 🟧 WIP | -     |
+| [[Structures-Sheet-3.pdf\|Sheet 3]] | 🟧 WIP | -     |
+| [[Structures-Sheet-4.pdf\|Sheet 4]] | 🟧 WIP | -     |
+| [[Structures-Sheet-5.pdf\|Sheet 5]] | 🟧 WIP | -     |
 
 ## Revision Focus
 > [!todo] To Review
