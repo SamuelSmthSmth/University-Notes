@@ -1,13 +1,8 @@
----
-title: MTH1002 - Mathematical Methods
-tags: [module, year1, math]
----
-
 # Mathematical Structures
 
 **Status:** In Progress
-**Lecturer:** Nigel Byott
-**Compendiums:** [[Definitions]] | [[Theorems]] | [[Axioms]]
+**Lecturer:** Nigel Byott, Peter Ashwin, Jan Seiber
+**Compendiums:** [[Definitions]] | [[Theorems]]
 
 ## Lecture Log
 - [[Lec 01 - Intro to Conics]]
@@ -15,10 +10,10 @@ tags: [module, year1, math]
 - [[Lec 03 - Complex Numbers]]
 
 ## Problem Sheets
-| Sheet | Status | Score |
-| :--- | :--- | :--- |
+| Sheet                | Status | Score |
+| :------------------- | :----- | :---- |
 | [[Sheet 1 - Conics]] | ✅ Done | 10/10 |
-| [[Sheet 2 - ODEs]] | 🟧 WIP | - |
+| [[Sheet 2 - ODEs]]   | 🟧 WIP | -     |
 
 ## Revision Focus
 > [!todo] To Review

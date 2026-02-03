@@ -1,7 +1,7 @@
-# Mathematical Structures
+# Mathematical Methods
 
 **Status:** In Progress
-**Lecturer:** Layal Hakim
+**Lecturer:** Layal Hakim, Mark Holland, Mike O'Sullivan, Bob Beare
 **Compendiums:** [[Definitions]] | [[Theorems]]
 
 ## Lecture Log
