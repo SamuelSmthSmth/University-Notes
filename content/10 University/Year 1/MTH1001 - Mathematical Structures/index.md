@@ -3,11 +3,11 @@ title: MTH1002 - Mathematical Methods
 tags: [module, year1, math]
 ---
 
-# Mathematical Methods
+# Mathematical Structures
 
 **Status:** In Progress
-**Lecturer:** Mark Holland / Layal Hakim
-**Compendiums:** [[Definitions]] | [[Theorems]]
+**Lecturer:** Nigel Byott
+**Compendiums:** [[Definitions]] | [[Theorems]] | [[Axioms]]
 
 ## Lecture Log
 - [[Lec 01 - Intro to Conics]]

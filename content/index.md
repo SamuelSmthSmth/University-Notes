@@ -15,8 +15,8 @@ Welcome. This is a digital garden for my MMath journey at the **University of Ex
 
 ### [[10 University/Year 1]]
 *Foundations and Methods*
-- **[[MTH1001 - Mathematical Structures]]**: Sets, Proofs, and Groups.
-- **[[MTH1002 - Mathematical Methods]]**: Calculus, ODEs, and Geometry.
+- **[[10 University/Year 1/MTH1001 - Mathematical Structures/index|MTH1001 - Mathematical Structures]]**: Sets, Proofs, and Groups.
+- **[[10 University/Year 1/MTH1001 - Mathematical Structures/index|MTH1002 - Mathematical Methods]]**: Calculus, ODEs, and Geometry.
 
 ### [[Year 2]]
 *(Coming Soon)*
