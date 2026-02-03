@@ -3,7 +3,7 @@ document.addEventListener("nav", () => {
   pdfs.forEach((iframe: any) => {
     if (iframe.src.includes("toolbar=0")) return
     const separator = iframe.src.includes("#") ? "&" : "#"
-    iframe.src += `${separator}toolbar=0&navpanes=0&scrollbar=0&view=FitH`
+    iframe.src += `${separator}toolbar=0&navpanes=0&scrollbar=0&statusbar=0&messages=0&view=FitH`
   })
 })
 
